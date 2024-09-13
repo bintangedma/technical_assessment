@@ -27,6 +27,7 @@ B = list(map(int, input().split()))  # Read Bi values
 # A = [8,9,3,2]
 # B = [5,4,1,3]
 
+# Constraints
 if (N != len(A) or N != len(B))  : 
     print('The length of A or B is not in desirable length (N length).')
 else :
